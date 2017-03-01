@@ -6,7 +6,6 @@ Welcome to the UCI Data Science Initiative's *Advanced* Predictive Modeling with
 1. Whether you've just installed Anaconda, or you have done so previously, you should now **update Anaconda** to the latest version of the distribution.  It changes a lot so do this today even if you did recently.
  1. Open a terminal or command prompt.
  1. Type ```conda update conda``` and press enter or return.  Confirm that you'd like it to make any changes that it offers.
- 1. Type ```conda update anaconda``` and press enter or return.  Confirm that you'd like it to make any changes that it offers.
 1. **Download the code repository**.  
  1. Click [here](https://github.com/UCIDataScienceInitiative/AdvPredictiveModeling_withPython/archive/master.zip) to download a zip file containing this entire repository.
  1. Unzip that file into a directory you know how to find; you'll need it several times throughout the day.  
