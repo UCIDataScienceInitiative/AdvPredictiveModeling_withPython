@@ -2,7 +2,7 @@
 
 Welcome to the UCI Data Science Initiative's *Advanced* Predictive Modeling with Python course!  This repository contains the Jupyter (formerly iPython) Notebooks we'll be using throughout the course.  Here are the steps to get started:
 
-1.  If you haven't do so already, download and **install the [Anaconda Scientific Python Distribution version 2.7](https://store.continuum.io/cshop/anaconda/)**.  If it offers to make itself your default Python distribution, allow it.
+1.  **Should be installed from taking first *Predictive Modeling* course**: If you haven't done so already, download and **install the [Anaconda Scientific Python Distribution version 2.7](https://store.continuum.io/cshop/anaconda/)**.  If it offers to make itself your default Python distribution, allow it.
 1. Whether you've just installed Anaconda, or you have done so previously, you should now **update Anaconda** to the latest version of the distribution.  It changes a lot so do this today even if you did recently.
  1. Open a terminal or command prompt.
  1. Type ```conda update conda``` and press enter or return.  Confirm that you'd like it to make any changes that it offers.
